@@ -1,5 +1,3 @@
-By Cole Huot
-
 CONTROLS
 
 “TERRAIN” Window Controls
