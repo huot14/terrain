@@ -1,4 +1,4 @@
-CONTROLS
+Controls
 ========
 
 “TERRAIN” Window Controls
@@ -21,7 +21,7 @@ CONTROLS
 * Right Click: displace terrain downwards
 
 
-NOTES
+Notes
 ============
 
 * terrain sizes larger than 150 are slow to render
