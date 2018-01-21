@@ -1,6 +1,9 @@
 CONTROLS
+========
 
 “TERRAIN” Window Controls
+------------
+
 * Q: quit
 * R: reset terrain
 * W: toggle wireframe
@@ -13,10 +16,12 @@ CONTROLS
 * Right Click: terrain size selection menu
 
 “MAP” Window Controls
+------------------
 * Left Click: displace terrain upwards
 * Right Click: displace terrain downwards
 
 
 NOTES
+============
 
 * terrain sizes larger than 150 are slow to render
